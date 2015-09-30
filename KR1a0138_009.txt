@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易圖明辨
-#+DATE: 2015-09-23 09:35:33
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 21:59:32.110897
+#+PROPERTY: ID KR1a0138
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0138_WYG_009-1a>¶
 欽定四庫全書¶
 　易圖明辨卷九¶
@@ -663,4 +665,3 @@
 　　童之見疑乎其所不足疑¶
 　　　　　右論朱子卦變¶
 　易圖明辨卷九¶
-
